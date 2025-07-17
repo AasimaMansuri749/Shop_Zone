@@ -2,7 +2,7 @@
 
 ---
 
-## 📖 Description
+##  Description
 
 **Shop Zone** is a full-featured online shopping web application designed for seamless apparel shopping for men, women, and children. It allows customers to browse, filter, and purchase clothing items while providing robust admin functionalities to manage users, products, orders, and inventory.
 
@@ -11,7 +11,7 @@ The system supports multiple user roles such as **Admin**, **Customer**, **Deliv
 ---
 
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 **Frontend** : HTML, CSS, Bootstrap 
 **Backend** : JSP, Servlets, JDBC
@@ -19,7 +19,7 @@ The system supports multiple user roles such as **Admin**, **Customer**, **Deliv
 **IDE** :  Eclipse  
 ---
 
-## 🎯 Key Features
+##  Key Features
  - User Management:
    - Supports multiple user roles: Admin, Customer, Delivery Person, and Guest
    - Registration and login functionality with role-based redirection
@@ -55,43 +55,34 @@ The system supports multiple user roles such as **Admin**, **Customer**, **Deliv
     - Protected routes: only authorized users can access specific pages
     - Email validation and input sanitization to prevent SQL injection
 
-📊 Reports for Admin:
-
-Sales Report: Monthly/overall revenue summary
-
-Inventory Report: Products in stock, low-stock alerts
-
-User Report: Number of registered users, order count per user
-
-Reports presented in tabular format with export functionality
-
-✉️ Feedback & Review System:
-
-Customers can leave feedback after successful order delivery
-
-Admin can view and moderate reviews
-
-Feedback includes rating (optional) and textual comment
-
-Helps improve service quality and trust
+- Reports for Admin:
+   - Sales Report: Monthly/overall revenue summary
+   - Inventory Report: Products in stock, low-stock alerts
+   - User Report: Number of registered users, order count per user
+   - Reports presented in tabular format with export functionality
+- Feedback & Review System:
+   - Customers can leave feedback after successful order delivery
+   - Admin can view and moderate reviews
+   - Feedback includes rating (optional) and textual comment
+   - Helps improve service quality and trust
 
 
 ---
-## 🔐 Security Features
+##  Security Features
 
-- ✅ Encrypted passwords using secure hashing
-- ✅ Role-based Access Control
-- ✅ SQL Injection Prevention via input validation
-- ✅ Session timeout and secure cookie handling
-- ✅ Proper error messages without exposing system internals
+-  Encrypted passwords using secure hashing
+-  Role-based Access Control
+-  SQL Injection Prevention via input validation
+-  Session timeout and secure cookie handling
+-  Proper error messages without exposing system internals
 
 ---
 
-## 📈 Admin Reports
+##  Admin Reports
 
-- 📦 **Sales Reports:** Monthly sales overview
-- 📊 **Inventory Reports:** Stock availability & low stock alerts
-- 👥 **User Reports:** Registered user statistics
+-  **Sales Reports:** Monthly sales overview
+-  **Inventory Reports:** Stock availability & low stock alerts
+-  **User Reports:** Registered user statistics
 
 ---
 
