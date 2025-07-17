@@ -13,10 +13,10 @@ The system supports multiple user roles such as **Admin**, **Customer**, **Deliv
 
 ##  Tools & Technologies
 
-**Frontend** : HTML, CSS, Bootstrap 
-**Backend** : JSP, Servlets, JDBC
-**Database** : MYSQL
-**IDE** :  Eclipse  
+- **Frontend** : HTML, CSS, Bootstrap 
+- **Backend** : JSP, Servlets, JDBC
+- **Database** : MYSQL
+- **IDE** :  Eclipse  
 ---
 
 ##  Key Features
