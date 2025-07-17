@@ -68,6 +68,7 @@ The system supports multiple user roles such as **Admin**, **Customer**, **Deliv
 
 
 ---
+
 ##  Security Features
 
 -  Encrypted passwords using secure hashing
@@ -85,5 +86,22 @@ The system supports multiple user roles such as **Admin**, **Customer**, **Deliv
 -  **User Reports:** Registered user statistics
 
 ---
+
+##  How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AasimaMansuri749/Shop_Zone
+2. Import the project into NetBeans or your preferred Java IDE.
+
+3. Configure MySQL:
+
+  - Create a database named Shop_Zone.
+   
+  - Import the provided SQL file (Shop_Zone.sql).
+   
+  - Update DB credentials in your Java files (usually in the DAO or DB utility class).
+
+4. Deploy the project on Apache Tomcat Server.
 
 
