@@ -98,7 +98,7 @@ The system supports multiple user roles such as **Admin**, **Customer**, **Deliv
 
   - Create a database named Shop_Zone.
    
-  - Import the provided SQL file (Shop_Zone.sql).
+  - Import the provided SQL file (shop_zone.sql).
    
   - Update DB credentials in your Java files (usually in the DAO or DB utility class).
 
